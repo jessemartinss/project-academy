@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;600;800&display=swap');
+
+$font-jakarta:'Plus Jakarta Sans', sans-serif;
+
+$color-accent:#3434FF;
+$color-titles:#0B0B2C;
+$color-paragraphs:#69697B;
+$color-secondary-1:#F5F7FF;
+$color-secondary-2:#2C23D2;
+$color-neutral-500:#4E4E65;
+$color-neutral-400:#CFCFDB;
+$color-neutral-300:#ECECF4;
+$color-neutral-200:#FAFAFA;
+$color-neutral-100:#F7F7FB;
+$color-icons:#202058;
+
+* {
+  font-family: $font-jakarta;
+}
